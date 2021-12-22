@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 
 import './App.css';
-import React, { useEffect, useState } from 'react';
+//import React, { useEffect, useState } from 'react';
 import { API, graphqlOperation } from '@aws-amplify/api';
 
 import { Amplify } from 'aws-amplify';
