@@ -2,9 +2,10 @@
 
 import './App.css';
 //import React, { useEffect, useState } from 'react';
-import { API, graphqlOperation } from '@aws-amplify/api';
+//import { API, graphqlOperation } from '@aws-amplify/api';
 
-import { Amplify } from 'aws-amplify';
+import { Amplify, API, graphqlOperation } from 'aws-amplify';
+//import { Amplify } from 'aws-amplify';
 import { withAuthenticator } from '@aws-amplify/ui-react';
 import '@aws-amplify/ui-react/styles.css';
 
